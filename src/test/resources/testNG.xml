@@ -1,0 +1,8 @@
+<suite name="OrangeHRM">
+    <parameter name="browser" value="Firefox" />
+    <test name="OrangeHRM">
+        <classes>
+            <class name="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
